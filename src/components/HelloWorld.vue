@@ -9,8 +9,8 @@
 
         <p class="subheading font-weight-regular">
           Front End del sistema de tareas,<br> para utilizar como ejemplo en las practicas de despliegue.
-          
         </p>
+        <h2> om20022, Diego Rafael Osorio Morán </h2>
       </v-col>
 
       <v-col cols="12">
